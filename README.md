@@ -1,2 +1,3 @@
 # git_new
-$ gid add README.md
+$ git add README.md
+$ git remote add origin
